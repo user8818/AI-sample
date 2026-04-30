@@ -2,5 +2,5 @@ import numpy as np
 
 a = 10
 b = 10
-c = a * b * b * a
+c = a * b * b
 print(c)
